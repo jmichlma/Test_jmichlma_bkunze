@@ -1,5 +1,13 @@
 Befehle:
+Aufgabe 5:
 git add jmichlma.txt
 git commit -m "Es wurde eine neue Datei mit dem Namen jmichlma hinzugefuegt
 git push 
+
+Aufgabe 7: 
+git pull
+git add README.md
+git commit -m "Name in der README.md file hinzugefuegt
+git push
+
 
