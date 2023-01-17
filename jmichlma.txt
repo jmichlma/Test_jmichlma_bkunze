@@ -10,4 +10,11 @@ git add README.md
 git commit -m "Name in der README.md file hinzugefuegt
 git push
 
+Aufgabe 8: 
+git pull
+git add README.md
+git commit -m "Aenderungen in der README.md"
+git push 
+Jenachdem wer zuerst gepushed hat konnte Problemlos die modifizierte README.md hochladen. Der Andere Push-Versuch hat einen Error da es sich bei der Version nicht mehr um die Aktuelle Version handelt.  
+
 
