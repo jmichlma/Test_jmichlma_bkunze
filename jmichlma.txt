@@ -1,4 +1,5 @@
 Befehle:
+git add jmichlma.txt
 git commit -m "Es wurde eine neue Datei mit dem Namen jmichlma hinzugefuegt
 git push 
 
